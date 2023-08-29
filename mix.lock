@@ -1,0 +1,3 @@
+%{
+  "slog": {:hex, :slog, "0.1.1", "d2ee6da12ed0c67c8711de8300e0b32cb0eb5e37cd098e5e4e62f91404e3cf98", [:mix], [], "hexpm", "a819f51f3cfb233b2595fb47e5cd5affbb9c9b4f5d7198447b717f899c026799"},
+}
