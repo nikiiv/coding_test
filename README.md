@@ -1,19 +1,7 @@
 # CodingTest
 
-**TODO: Add description**
+**Algorithm to find if a sub-list exists into a given list if all elements sum to a target number**
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `coding_test` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:coding_test, "~> 0.1.0"}
-  ]
-end
-```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
